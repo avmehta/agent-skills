@@ -8,4 +8,4 @@ The three favorite workflows—planning-first, contrarian-review and socratic-pl
 
 The only intentional edits to imported skill content are portability changes in four teaching entrypoints: configurable course/reference locations and the sibling teach-course link. Existing teaching format differences are not resolved in this packaging change.
 
-Some personal skills include upstream-derived material. Existing attribution and license metadata remain in their files; this repository does not claim original authorship of all imported material and does not impose a blanket license over it. Keep the repository private unless third-party rights have been reviewed for the intended redistribution.
+Some personal skills include upstream-derived material. Existing attribution and license metadata remain in their files; this repository does not claim original authorship of all imported material and does not impose a blanket license over it. The initial private-visibility default was superseded by the owner's explicit request to make this repository public on 2026-09-10. Public visibility does not change the upstream license terms.

@@ -1,6 +1,6 @@
 # Current status
 
-Published to the verified private repository [avmehta/agent-skills](https://github.com/avmehta/agent-skills) on 2026-09-10. The initial implementation commit is `35209056a6ccacd69ac48641169d84fc25aad213`; the final checkpoint changes documentation only.
+Published initially as a private repository on 2026-09-10. The owner subsequently requested public access to avoid using a personal GitHub login at work. [avmehta/agent-skills](https://github.com/avmehta/agent-skills) is now verified public, and HTTPS access to its main branch was verified with Git credentials disabled. The initial implementation commit is `35209056a6ccacd69ac48641169d84fc25aad213`; subsequent checkpoints change documentation only.
 
 Scope: 23 personal skills; preferred planning trio preserved; teaching path portability only; current installed files untouched.
 
@@ -12,4 +12,4 @@ The [GitHub Actions run](https://github.com/avmehta/agent-skills/actions/runs/34
 
 External tool workflows are not runtime-tested by this packaging task. NotebookLM authentication, browser/chart sessions, optional macOS speech helpers and teaching environments still require their documented setup. Existing lesson-format differences remain preserved.
 
-Exact next action: on the destination machine, authenticate with GitHub, clone this repository and run the installer command for that OS in README.md. Use `--with-global-instructions` to carry over the planning agreement as well as the skills.
+Exact next action: on the destination machine, clone this repository over HTTPS without GitHub sign-in and run the installer command for that OS in README.md. Use `--with-global-instructions` to carry over the planning agreement as well as the skills.

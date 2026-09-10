@@ -1,6 +1,6 @@
 # Dependencies and portable paths
 
-The installer needs Python 3.10+; cloning/updating needs Git and access to the private GitHub repository. It uses copy installation on every OS. You do not need to install optional helper tools just to use the planning trio.
+The installer needs Python 3.10+; cloning/updating needs Git and network access to GitHub. The repository is public, so HTTPS cloning and pulling do not require GitHub authentication. It uses copy installation on every OS. You do not need to install optional helper tools just to use the planning trio.
 
 ## Teaching workspaces
 

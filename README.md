@@ -6,7 +6,7 @@ Clone this repository anywhere. The installer uses Python's standard library and
 
 ## Install on macOS or Linux
 
-Install Git, Python 3.10+ and Codex first. Authenticate with GitHub to access this private repository; `gh auth login` is one option if GitHub CLI is installed.
+Install Git, Python 3.10+ and Codex first. This repository is public: cloning and pulling over HTTPS do not require a GitHub account or sign-in.
 
 ```sh
 git clone https://github.com/avmehta/agent-skills.git
