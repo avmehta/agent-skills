@@ -1,0 +1,439 @@
+{
+  "captured": "2026-09-10",
+  "skills": [
+    {
+      "name": "code-review",
+      "source": "~/.agents/skills/code-review",
+      "files": [
+        {
+          "path": "SKILL.md",
+          "sha256": "68a254aede665cfa170a3907ca761e3f141083544eb566199e4996aa29526496"
+        },
+        {
+          "path": "agents/openai.yaml",
+          "sha256": "8229ca854e11dc8e6aef2131ee03f31fb1561cf905fab9ccc325180cf3331352"
+        }
+      ]
+    },
+    {
+      "name": "codebase-design",
+      "source": "~/.agents/skills/codebase-design",
+      "files": [
+        {
+          "path": "DEEPENING.md",
+          "sha256": "f3dd099ce99289bd213914d8ee3e2429b78309c3957ca4583f7659551b1d53c1"
+        },
+        {
+          "path": "DESIGN-IT-TWICE.md",
+          "sha256": "2791a0b57f1eaa395e04eff720d3f0ebd06b5bea2c7731d946b10c240026f6fe"
+        },
+        {
+          "path": "SKILL.md",
+          "sha256": "d8b404f4e809fae03eaa4f153b5c6bb0e325f46831fa62ae1624e724314e0458"
+        },
+        {
+          "path": "agents/openai.yaml",
+          "sha256": "edebc9e4fcfe102114012575eaa9600b9b5fd08c311664f389c36e7bc717740f"
+        }
+      ]
+    },
+    {
+      "name": "contrarian-review",
+      "source": "~/.agents/skills/contrarian-review",
+      "files": [
+        {
+          "path": "SKILL.md",
+          "sha256": "050e5f0480f069636f3dbc48bbbafd4f2a7e545199b975ecba50bb34805d1171"
+        },
+        {
+          "path": "agents/openai.yaml",
+          "sha256": "f8f4d990c31ce39b1be6c34d86c18f18813d3847114b8461ca10ffc7a89e15b8"
+        }
+      ]
+    },
+    {
+      "name": "diagnosing-bugs",
+      "source": "~/.agents/skills/diagnosing-bugs",
+      "files": [
+        {
+          "path": "SKILL.md",
+          "sha256": "6cba6d6fff6e21d54097eec248491b25d41d5b5c98c4d8710bacab12ab7b5b91"
+        },
+        {
+          "path": "agents/openai.yaml",
+          "sha256": "3e430dbe4334a87597488c060cb3dc3786bb00c9182877d6f5ec41f62490e90b"
+        },
+        {
+          "path": "scripts/hitl-loop.template.sh",
+          "sha256": "35103539fc36873eea36074769ad454f9379d6fc8b2dc0e26ce987fd3bfe5503"
+        }
+      ]
+    },
+    {
+      "name": "domain-modeling",
+      "source": "~/.agents/skills/domain-modeling",
+      "files": [
+        {
+          "path": "ADR-FORMAT.md",
+          "sha256": "944c92aa790e8fbdc9199640b170979abb8a34ba8d0fe18c2a01a63bce140ca0"
+        },
+        {
+          "path": "CONTEXT-FORMAT.md",
+          "sha256": "17ab16ce783e4d2801ee52fd9acdf550cbf44de65ae76797a93943bbedf22a13"
+        },
+        {
+          "path": "SKILL.md",
+          "sha256": "327a2b50620e2fd70abc6893cd6965e76b20f8d0adb0dc2c8d5eb3845efb643e"
+        },
+        {
+          "path": "agents/openai.yaml",
+          "sha256": "f6bf2aa996c6e6f53fdd0708e18a0d16a56aed8322cca59fedbe3c0d2c75f06b"
+        }
+      ]
+    },
+    {
+      "name": "grilling",
+      "source": "~/.agents/skills/grilling",
+      "files": [
+        {
+          "path": "SKILL.md",
+          "sha256": "4a5cc7a3a3d753be96e1d650eff370d56b331afe68308a0f72cdf617e83ac56c"
+        },
+        {
+          "path": "agents/openai.yaml",
+          "sha256": "1411d7df7d99b7e621a1ff8283c8133cc2464be63d064e52d8ce169c6800ee9b"
+        }
+      ]
+    },
+    {
+      "name": "lavish",
+      "source": "~/.agents/skills/lavish",
+      "files": [
+        {
+          "path": "SKILL.md",
+          "sha256": "59f1c5f06fbb916f98e809108115f42576275514c63e5afaf630195dfc8dabfc"
+        }
+      ]
+    },
+    {
+      "name": "notebooklm",
+      "source": "~/.agents/skills/notebooklm",
+      "files": [
+        {
+          "path": "SKILL.md",
+          "sha256": "c1675bfb8dfab58ff6efd64b0d298b98246777c6608c7561e83ea56e7b3a84ce"
+        }
+      ]
+    },
+    {
+      "name": "planning-first",
+      "source": "~/.agents/skills/planning-first",
+      "files": [
+        {
+          "path": "SKILL.md",
+          "sha256": "f990bbcae5b42a5499fdfa1b23d1af49b3bbb45f4d73e8c25a59cf67ec51d96e"
+        },
+        {
+          "path": "agents/openai.yaml",
+          "sha256": "4d123bdaf318cec91d42925b44a858b1f778b2599fc4904566b82a91a0955b77"
+        }
+      ]
+    },
+    {
+      "name": "playwright-cli",
+      "source": "~/.agents/skills/playwright-cli",
+      "files": [
+        {
+          "path": "SKILL.md",
+          "sha256": "29c0b669a524d42b51934d7db9144c1c07a566d0549ae6fb6ccd810e5a3cf61b"
+        },
+        {
+          "path": "references/element-attributes.md",
+          "sha256": "bf19aa4671e0a50a0fefa9c790f39124e803060eefe395042b723c29fcb7faa2"
+        },
+        {
+          "path": "references/playwright-tests.md",
+          "sha256": "c5b0719fef2cfdff50bd744051b2f9afc119775db4b48e9b2882c1cf3886797c"
+        },
+        {
+          "path": "references/request-mocking.md",
+          "sha256": "54e801c9663fc2b6d68ceb058cb1c360724c2499f42acc7852a68e83e5b5f37c"
+        },
+        {
+          "path": "references/running-code.md",
+          "sha256": "d95c539a5990b71d02d8bdf1d9414df16191eb6cff95b0063820518b7a13dcb2"
+        },
+        {
+          "path": "references/session-management.md",
+          "sha256": "cd3e261b8763bf952f1e371b876cb78d054379afec85482f9250633e1b7e6c44"
+        },
+        {
+          "path": "references/storage-state.md",
+          "sha256": "9ac47f9ae4a1aedcd2077f8ac9ab1ba6bee1962cb83ff51adcd36fb6d83b5ec6"
+        },
+        {
+          "path": "references/test-generation.md",
+          "sha256": "12f54cfa718d9e559bad918120a4ca4f11c933167713d1b9c5f99872eddaf749"
+        },
+        {
+          "path": "references/tracing.md",
+          "sha256": "792e0ac7705e56ac48df84c0f5400221ce86107897c671590a64a4ea6a82508e"
+        },
+        {
+          "path": "references/video-recording.md",
+          "sha256": "8555ab5400df0d90e66318aacc0a8a4418fbf872e7463824d55d5c41615abd83"
+        }
+      ]
+    },
+    {
+      "name": "prototype",
+      "source": "~/.agents/skills/prototype",
+      "files": [
+        {
+          "path": "LOGIC.md",
+          "sha256": "f61c7d249e786a79ef289018901c348271e1798dd0b0bc5607b5c6f4d4a01ab9"
+        },
+        {
+          "path": "SKILL.md",
+          "sha256": "714de632d116bb73f65cdb5a882db15b9369a6713b9a47c0fad827848f0bfbe3"
+        },
+        {
+          "path": "UI.md",
+          "sha256": "723211e878acbc7b6ff09755263f3295cde724ba902ff0064da41eed51d45ad3"
+        },
+        {
+          "path": "agents/openai.yaml",
+          "sha256": "5af65e43ab41a350436697b81e27b7f848d36782043b73c322bb2c9fa9cc55dc"
+        }
+      ]
+    },
+    {
+      "name": "repository-preserving-migration",
+      "source": "~/.agents/skills/repository-preserving-migration",
+      "files": [
+        {
+          "path": "SKILL.md",
+          "sha256": "1d3eea44e7276cf02520c82cb56788ace4c77106e9012ed954455c3f84d259dd"
+        },
+        {
+          "path": "agents/openai.yaml",
+          "sha256": "4c62c381196bc7d3747b7fe52b89e0642ece0c3eb5fc6b06ce7dd832b4c2fa0f"
+        }
+      ]
+    },
+    {
+      "name": "research",
+      "source": "~/.agents/skills/research",
+      "files": [
+        {
+          "path": "SKILL.md",
+          "sha256": "46489daee6a15c4113efa27bbe29e1dd803b02901301d7985eed62ff01ec49aa"
+        },
+        {
+          "path": "agents/openai.yaml",
+          "sha256": "9b4c470d63221c1f68f22df70b83e2f12401b317babe0d1b7b5f24a974474d0d"
+        }
+      ]
+    },
+    {
+      "name": "resolving-merge-conflicts",
+      "source": "~/.agents/skills/resolving-merge-conflicts",
+      "files": [
+        {
+          "path": "SKILL.md",
+          "sha256": "9d8114f8ef0b31f535a265fc05c364bd8cf2e2895a830040e06c22acb11f54b0"
+        },
+        {
+          "path": "agents/openai.yaml",
+          "sha256": "a1f4f96838f2ed6282eb28abbbf99029cb8fadce552baf53da90a025b8bffddf"
+        }
+      ]
+    },
+    {
+      "name": "socratic-planning",
+      "source": "~/.agents/skills/socratic-planning",
+      "files": [
+        {
+          "path": "SKILL.md",
+          "sha256": "ad16f1a4ea71c97699bb7e3512c4854723c65a9eaf00eade8b1899d01d302934"
+        },
+        {
+          "path": "agents/openai.yaml",
+          "sha256": "c9625cbb09aacb6867cda483c1045f843c004b758574cb8468a151b9885c61cf"
+        }
+      ]
+    },
+    {
+      "name": "system-design",
+      "source": "~/.agents/skills/system-design",
+      "files": [
+        {
+          "path": "SKILL.md",
+          "sha256": "7b8bedca5e47684c7207b64fbd52052aca51afd76cb215d51810323b8214a0a9"
+        },
+        {
+          "path": "agents/openai.yaml",
+          "sha256": "6b24a15a71b6672e8ee25c5fb617f2373ae58906f93564ababe58625be8a20de"
+        },
+        {
+          "path": "reference/diagrams.md",
+          "sha256": "8917cb5a5ac5db1b10efbe73e930a06b03d55a6cec48d82e5df8f3fbc71c32b2"
+        },
+        {
+          "path": "reference/generate.md",
+          "sha256": "8a273db833e0d1c6af4a89649141ffbbabdeef851a3af5fa4798bb977fc81320"
+        },
+        {
+          "path": "reference/learn.md",
+          "sha256": "59e5dbfdcddbab419fae88476d7a5f3bbb3d8c0b6a6ddf54e396cf9def0129b9"
+        },
+        {
+          "path": "reference/mock.md",
+          "sha256": "05d53f76a6efc2c17e1a1149a72bf072a5b9e321732d6d900340b4896782feb9"
+        },
+        {
+          "path": "reference/postmortem.md",
+          "sha256": "b3c8eb2678486c458e69b5de87bb3447a938c242047442175ad46da057cd069c"
+        },
+        {
+          "path": "reference/primitives.md",
+          "sha256": "f57ec9a3d24559598abcb49b5d323714eb7272dbe43e00713a3e85354a59004a"
+        },
+        {
+          "path": "reference/topics.md",
+          "sha256": "038bb427ddd04323fa4ceda164aff13d70de27025815d017f8dcd93ff32d0644"
+        },
+        {
+          "path": "scripts/speak.sh",
+          "sha256": "4280c74274192e3c06d054ee428509fe225c8983d92d40135f686f6f46526a78"
+        }
+      ]
+    },
+    {
+      "name": "tradingview-chart-analysis",
+      "source": "~/.agents/skills/tradingview-chart-analysis",
+      "files": [
+        {
+          "path": "SKILL.md",
+          "sha256": "6b38eab0e764e505262d122cd5a6b5d4283716824557cfcfa358086dd11307d7"
+        },
+        {
+          "path": "agents/openai.yaml",
+          "sha256": "97e486ec914836cea2aecedc5f7c56fc7eae8fe55d00d2a4e65b48ee7e70372d"
+        }
+      ]
+    },
+    {
+      "name": "wrap-up",
+      "source": "~/.agents/skills/wrap-up",
+      "files": [
+        {
+          "path": "SKILL.md",
+          "sha256": "3af4503928ab669287eb817508b3f843fa07240ab696dc5a77c3b684d88ab560"
+        },
+        {
+          "path": "agents/openai.yaml",
+          "sha256": "178098de8cbc98e8822a133392a80922559cb08d7da7d0722380efcc6fe5c50c"
+        }
+      ]
+    },
+    {
+      "name": "create-lesson",
+      "source": "~/.codex/skills/create-lesson",
+      "files": [
+        {
+          "path": "SKILL.md",
+          "sha256": "50aeeae8d53323ce21a01944d123d09900d81c7e7666ad246441d190fe56f93f"
+        },
+        {
+          "path": "agents/openai.yaml",
+          "sha256": "b40baee86a7a91142d3ff879fb35bb4f8836dd837d37673fd4a78e9f89ffb8a4"
+        },
+        {
+          "path": "references/lesson-format.md",
+          "sha256": "bd37477199d0bd88bb713d63e1ca1ccaa9e97313b494cc95fa64ff0d4d762721"
+        }
+      ]
+    },
+    {
+      "name": "design-interview-methodology",
+      "source": "~/.codex/skills/design-interview-methodology",
+      "files": [
+        {
+          "path": "SKILL.md",
+          "sha256": "ecbfa8c62d1e325a7166e050326927f84ca40174b77a621691426a093284f6b9"
+        },
+        {
+          "path": "agents/openai.yaml",
+          "sha256": "55adfcb913eecc37e27ec2baa3e6894d4bb37082a54de1d02205689c9ab763e3"
+        },
+        {
+          "path": "references/interview-playbook.md",
+          "sha256": "f8143e5752caf76d15738828967f682c4c02de6efcf09d5c2e845460d3798e4a"
+        }
+      ]
+    },
+    {
+      "name": "teach-course",
+      "source": "~/.codex/skills/teach-course",
+      "files": [
+        {
+          "path": "SKILL.md",
+          "sha256": "f323e8e558bc9b3e905aa56d58e6a4c57aced5d5f784e4fe5e2bcff4d451c5c7"
+        },
+        {
+          "path": "agents/openai.yaml",
+          "sha256": "8f8b6b0e03fdccb020c21d55d6ef78a70cfc797d4574163e9964411ba4d2a883"
+        },
+        {
+          "path": "assets/course.css",
+          "sha256": "e4ea0a7ada209cb94f96be9430f025c72cf7e2e42482b2192444ef9884daa2a0"
+        },
+        {
+          "path": "references/lesson-contract.md",
+          "sha256": "a59c1d0894b7124489a70d4d20f53ab4521ae709afe795816520fb2bd8347aa0"
+        },
+        {
+          "path": "scripts/validate_lesson.py",
+          "sha256": "e8911a9738ff84bbf16081e641641f04f1a5e685d6058901941a8c5fd93cc841"
+        }
+      ]
+    },
+    {
+      "name": "teach-lesson",
+      "source": "~/.codex/skills/teach-lesson",
+      "files": [
+        {
+          "path": "SKILL.md",
+          "sha256": "ce69dbb2f16e7fb4ae4065bf4f6ae62fbf5ffa4cd2cadb56abe37b61e2b533cf"
+        },
+        {
+          "path": "agents/openai.yaml",
+          "sha256": "3ec276fcd18c72151e8689fa72b51e05af5a059cbb34db7b641443df18e86fa5"
+        }
+      ]
+    },
+    {
+      "name": "teach-technical",
+      "source": "~/.codex/skills/teach-technical",
+      "files": [
+        {
+          "path": "SKILL.md",
+          "sha256": "f0c48c233fb772adb977eb76c7923b4c3d33fe6c760d8504309d770f18c1436b"
+        },
+        {
+          "path": "agents/openai.yaml",
+          "sha256": "7496ac2f1f0dbafd9cbc4bf830b44f39853adf47ea8b37efe84e49370f841413"
+        },
+        {
+          "path": "references/NOTEBOOK-CONTRACT.md",
+          "sha256": "443da8bccc0566f5f03b97651beb5f2731e0b5090712b65aff6422461c4ac3ed"
+        },
+        {
+          "path": "scripts/validate_lesson_pair.py",
+          "sha256": "55537f13d8aad34ee9e97c35771c984117000ec40a96855676060a8d8afd9e8b"
+        }
+      ]
+    }
+  ]
+}

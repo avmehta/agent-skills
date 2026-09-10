@@ -1,0 +1,4 @@
+interface:
+  display_name: "Socratic Planning"
+  short_description: "Clarify a problem through disciplined questions before planning."
+  default_prompt: "Use $socratic-planning to question me until this problem is ready to plan."

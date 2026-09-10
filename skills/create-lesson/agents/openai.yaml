@@ -1,0 +1,4 @@
+interface:
+  display_name: "Create Lesson"
+  short_description: "Build rigorous interactive ML lessons"
+  default_prompt: "Use $create-lesson to create the next interactive ML lesson."

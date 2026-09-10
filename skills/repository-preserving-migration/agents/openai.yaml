@@ -1,0 +1,3 @@
+interface:
+  display_name: "Repository Preserving Migration"
+  short_description: "Keep local data safe while changing Git history or tracking"

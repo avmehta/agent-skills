@@ -1,0 +1,5 @@
+interface:
+  display_name: "System Design"
+  short_description: "Practice, review, or generate system design interviews"
+  default_prompt: "Use $system-design to run a system design interview workflow."
+

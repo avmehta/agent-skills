@@ -1,0 +1,4 @@
+interface:
+  display_name: "Design Interview Methodology"
+  short_description: "Run structured system design interviews"
+  default_prompt: "Use $design-interview-methodology to guide me through a system design interview."

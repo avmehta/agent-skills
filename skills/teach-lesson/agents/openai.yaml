@@ -1,0 +1,4 @@
+interface:
+  display_name: "Teach Lesson"
+  short_description: "Run interactive mentor-led ML lessons"
+  default_prompt: "Use $teach-lesson to start the requested lesson as an interactive mentoring session."

@@ -1,0 +1,4 @@
+interface:
+  display_name: "Wrap Up"
+  short_description: "Record session state and next steps in durable Markdown."
+  default_prompt: "Use $wrap-up to close this session and preserve what matters."

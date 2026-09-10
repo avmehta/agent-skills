@@ -1,0 +1,4 @@
+interface:
+  display_name: "Planning First"
+  short_description: "Gate substantial work through planning and critique."
+  default_prompt: "Use $planning-first to take this work from ambiguity to a verified implementation."

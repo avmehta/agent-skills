@@ -1,0 +1,17 @@
+.DS_Store
+__pycache__/
+*.py[cod]
+.venv/
+.env
+.env.*
+!.env.example
+.agent-skills-install.json
+.agent-skills-stage-*/
+*.backup-*
+.local/
+work/
+outputs/
+storage_state.json
+master_token.json
+auth.json
+credentials.json

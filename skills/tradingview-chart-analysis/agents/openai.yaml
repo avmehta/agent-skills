@@ -1,0 +1,3 @@
+interface:
+  display_name: "TradingView Chart Analysis"
+  short_description: "Analyze chart objectives and preserve drawing state"
